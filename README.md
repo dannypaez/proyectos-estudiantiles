@@ -1,7 +1,6 @@
 # 📚 Biblioteca de Proyectos Estudiantiles
 
-Este repositorio tiene como objetivo servir como **biblioteca digital** de los proyectos realizados por estudiantes del Instituto Tecnológico Universitario Rumiñahui en asignaturas como Aplicaciones Web, Inteligencia Artificial, Estadística, entre otras.
-
+Este repositorio tiene como objetivo servir como **biblioteca digital** de los proyectos realizados por estudiantes del Instituto Tecnológico Universitario Rumiñahui.
 Los proyectos están organizados por semestre y por estudiante.
 
 ---
